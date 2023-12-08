@@ -1,0 +1,11 @@
+.movies-container{
+    color: white;
+    width: 90vw
+}
+
+.movies-wrapper{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 32px;
+    
+}
